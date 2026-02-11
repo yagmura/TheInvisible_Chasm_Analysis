@@ -7,7 +7,7 @@ This repository contains all the R analytics, dataset, and visualizations needed
 ## Visual Outputs
 Below are the key visualizations generated from the analysis:
 # Earnings & Unemployment Analysis
-![Earnings vs Unemployment](sscater.png)
+![Earnings vs Unemployment](scater.png)
 ![Earning Differences](tearn.png)
 ![Lowest Unemploying](lounemp.png)
 ![Highest Unemploying](hiunemp.png)
