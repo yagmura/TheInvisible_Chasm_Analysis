@@ -7,10 +7,10 @@ This repository contains all the R analytics, dataset, and visualizations needed
 ## Visual Outputs
 Below are the key visualizations generated from the analysis:
 # Earnings & Unemployment Analysis
-![Earnings vs Unemployment]()
-![Earning Differences]()
-![Lowest Unemploying]()
-![Highest Unemploying]()
+![Earnings vs Unemployment](sscater.png)
+![Earning Differences](tearn.png)
+![Lowest Unemploying](lounemp.png)
+![Highest Unemploying](hiunemp.png)
 
 ##  Repository Content
 - `the invisible chasm.R`: Full R script for data cleaning and visualization.
